@@ -1,4 +1,4 @@
-# Family secret recipes
+# KlustFamily secret recipes
 
 Set of recipes as given by grandma.
 
@@ -7,4 +7,4 @@ Set of recipes as given by grandma.
 - Sauces (TO DO)
 - Spreads (TO DO)
 
-Adding some more stuff, baby
+Adding some more stuff
